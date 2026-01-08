@@ -1,0 +1,1 @@
+Elizabet Web Shop adalah web olshop sederhana yang dibuat untuk kebutuhan Ujian Akhir Semester Pemrograman Web 1. Website ini memungkinkan pengguna melihat produk, melakukan transaksi, dan menyimpan data pembelian langsung di halaman web.
